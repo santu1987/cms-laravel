@@ -1,0 +1,1 @@
+<img class="img_arcticulos" id="img_seleccionada"  ng-src="{{ asset($imagen['path'])}}" height="200" data="">
